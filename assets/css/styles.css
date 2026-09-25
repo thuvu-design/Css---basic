@@ -47,3 +47,16 @@ margin-top: 21px;
 color: rgb(170, 147, 65);
 
 }
+
+#title {
+display: inline-block;
+background-color:rgb(227, 213, 168);
+color: rgb(252, 255, 249);
+font-weight: 700;
+font-size: .87em;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+padding: 9px 15px;
+border-radius: 999px;
+margin-bottom: 23px;
+}
